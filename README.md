@@ -1,2 +1,2 @@
-# ChanakyaLegalLanding
-Landing page for Chanakya legal. Indian Law firm established 100+ years ago.
+# LegalRiddle-Landing
+Landing page template for a law firm.
